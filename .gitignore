@@ -1,0 +1,13 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Scratch / working files
+*.psd
+*.ai
+*.xcf
+*.raw
+*.bak
+
+# Temp
+*.tmp

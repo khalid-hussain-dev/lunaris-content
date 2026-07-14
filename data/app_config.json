@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-07-14",
+
+  "announcement": {
+    "enabled": false,
+    "id": "ann-001",
+    "type": "GENERAL",
+    "imageUrl": "",
+    "title": "",
+    "message": "",
+    "minAppVersion": 1,
+    "maxAppVersion": null,
+    "ctaLabel": "",
+    "ctaUrl": ""
+  },
+
+  "featured": {
+    "wallpaperIds": [
+      "ds-005", "ds-044", "ds-048",
+      "aot-001", "aot-030",
+      "jjk-001", "jjk-003",
+      "db-001", "db-002", "db-031", "db-051", "db-074", "db-082", "db-088", "db-113", "db-118", "db-144", "db-167",
+      "dc-001",
+      "inv-001"
+    ]
+  },
+
+  "popular": {
+    "wallpaperIds": [
+      "db-001", "db-031", "db-002",
+      "jjk-001", "jjk-003",
+      "ds-005", "ds-044",
+      "aot-001", "aot-030",
+      "db-074", "db-082", "db-051"
+    ]
+  },
+
+  "newArrivals": {
+    "collectionIds": [
+      "demon-slayer",
+      "attack-on-titan",
+      "jujutsu-kaisen",
+      "dragon-ball",
+      "dc",
+      "invincible"
+    ]
+  },
+
+  "maintenanceMode": {
+    "enabled": false,
+    "message": "Lunaris is undergoing maintenance. We'll be back shortly."
+  },
+
+  "forceUpdate": {
+    "enabled": false,
+    "minRequiredVersion": 1,
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.xiiidimensions.lunaris"
+  }
+}
