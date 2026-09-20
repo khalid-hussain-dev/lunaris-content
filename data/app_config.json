@@ -4,7 +4,7 @@
 
   "announcement": {
   "enabled": true,
-  "id": "ann-test-001",
+  "id": "ann-test-002",
   "type": "GENERAL",
   "imageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/wallpapers/demon-slayer/ds-001.jpg",
   "title": "Lunaris Announcement Test",
