@@ -3,17 +3,17 @@
   "lastUpdated": "2026-07-14",
 
   "announcement": {
-    "enabled": false,
-    "id": "ann-001",
-    "type": "GENERAL",
-    "imageUrl": "",
-    "title": "",
-    "message": "",
-    "minAppVersion": 1,
-    "maxAppVersion": null,
-    "ctaLabel": "",
-    "ctaUrl": ""
-  },
+  "enabled": true,
+  "id": "ann-test-001",
+  "type": "GENERAL",
+  "imageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/wallpapers/demon-slayer/ds-001.jpg",
+  "title": "Lunaris Announcement Test",
+  "message": "This is a test announcement delivered through the Lunaris remote configuration system.",
+  "minAppVersion": 1,
+  "maxAppVersion": null,
+  "ctaLabel": "View Content Repository",
+  "ctaUrl": "https://github.com/khalid-hussain-dev/lunaris-content"
+},
 
   "featured": {
     "wallpaperIds": [
