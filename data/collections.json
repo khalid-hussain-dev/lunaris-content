@@ -8,7 +8,7 @@
       "title": "Demon Slayer",
       "slug": "demon-slayer",
       "description": "Kimetsu no Yaiba — breathtaking art from the world of Tanjiro, Nezuko, and the Demon Slayer Corps.",
-      "coverImageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/wallpapers/demon-slayer/cover.jpg",
+      "coverImageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/collections/demon-slayer.jpg",
       "wallpaperCount": 48,
       "order": 1,
       "tags": ["anime", "demon-slayer", "kimetsu", "tanjiro", "nezuko", "action"]
@@ -18,8 +18,8 @@
       "title": "Attack on Titan",
       "slug": "attack-on-titan",
       "description": "Shingeki no Kyojin — the walls, the titans, and the freedom beyond.",
-      "coverImageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/wallpapers/attack-on-titan/cover.jpg",
-      "wallpaperCount": 31,
+      "coverImageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/collections/attack-on-titan.jfif",
+      "wallpaperCount": 30,
       "order": 2,
       "tags": ["anime", "attack-on-titan", "aot", "eren", "levi", "titans"]
     },
@@ -28,7 +28,7 @@
       "title": "Jujutsu Kaisen",
       "slug": "jujutsu-kaisen",
       "description": "Cursed energy, sorcerers, and the endless battle between life and death.",
-      "coverImageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/wallpapers/jujutsu-kaisen/cover.jpg",
+      "coverImageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/collections/jujutsu-kaisen.jfif",
       "wallpaperCount": 9,
       "order": 3,
       "tags": ["anime", "jujutsu-kaisen", "jjk", "gojo", "yuji", "megumi", "cursed"]
@@ -38,8 +38,8 @@
       "title": "Dragon Ball",
       "slug": "dragon-ball",
       "description": "Power levels, Saiyans, and the eternal pursuit of strength.",
-      "coverImageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/wallpapers/dragon-ball/cover.jpg",
-      "wallpaperCount": 167,
+      "coverImageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/collections/dragon-ball.jfif",
+      "wallpaperCount": 165,
       "order": 4,
       "tags": ["anime", "dragon-ball", "goku", "vegeta", "super", "saiyan", "dbz"]
     },
@@ -48,20 +48,10 @@
       "title": "DC",
       "slug": "dc",
       "description": "Gotham, Metropolis, and the heroes and villains that define them.",
-      "coverImageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/wallpapers/dc/cover.jpg",
+      "coverImageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/collections/dc.jfif",
       "wallpaperCount": 1,
       "order": 5,
       "tags": ["dc", "batman", "superman", "comics", "superheroes", "gotham"]
-    },
-    {
-      "id": "invincible",
-      "title": "Invincible",
-      "slug": "invincible",
-      "description": "Think you know what it means to be a hero? Think again.",
-      "coverImageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/wallpapers/invincible/cover.jpg",
-      "wallpaperCount": 1,
-      "order": 6,
-      "tags": ["invincible", "mark-grayson", "omni-man", "comics", "superhero", "amazon"]
     }
   ]
 }
