@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-24",
+  "lastUpdated": "2026-09-25",
   "baseUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/wallpapers",
   "wallpapers": [
     {
@@ -4166,6 +4166,325 @@
       "isFeatured": true,
       "isNew": true,
       "uploadedAt": "2026-07-14"
+    },
+    {
+      "id": "dc-002",
+      "collectionId": "dc",
+      "title": "Batman #1",
+      "imageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/wallpapers/dc/dc-002.jpg",
+      "resolution": "362x552",
+      "tags": [
+        "dc",
+        "comics",
+        "batman",
+        "superheroes"
+      ],
+      "isFeatured": false,
+      "isNew": true,
+      "uploadedAt": "2026-09-25"
+    },
+    {
+      "id": "dc-003",
+      "collectionId": "dc",
+      "title": "Batman #2",
+      "imageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/wallpapers/dc/dc-003.jpg",
+      "resolution": "415x739",
+      "tags": [
+        "dc",
+        "comics",
+        "batman",
+        "superheroes"
+      ],
+      "isFeatured": false,
+      "isNew": true,
+      "uploadedAt": "2026-09-25"
+    },
+    {
+      "id": "dc-004",
+      "collectionId": "dc",
+      "title": "Batman #3",
+      "imageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/wallpapers/dc/dc-004.jpg",
+      "resolution": "367x544",
+      "tags": [
+        "dc",
+        "comics",
+        "batman",
+        "superheroes"
+      ],
+      "isFeatured": false,
+      "isNew": true,
+      "uploadedAt": "2026-09-25"
+    },
+    {
+      "id": "dc-005",
+      "collectionId": "dc",
+      "title": "Batman #4",
+      "imageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/wallpapers/dc/dc-005.jpg",
+      "resolution": "335x597",
+      "tags": [
+        "dc",
+        "comics",
+        "batman",
+        "superheroes"
+      ],
+      "isFeatured": false,
+      "isNew": true,
+      "uploadedAt": "2026-09-25"
+    },
+    {
+      "id": "dc-006",
+      "collectionId": "dc",
+      "title": "Batman #5",
+      "imageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/wallpapers/dc/dc-006.jpg",
+      "resolution": "374x534",
+      "tags": [
+        "dc",
+        "comics",
+        "batman",
+        "superheroes"
+      ],
+      "isFeatured": false,
+      "isNew": true,
+      "uploadedAt": "2026-09-25"
+    },
+    {
+      "id": "dc-007",
+      "collectionId": "dc",
+      "title": "Batman & Superman #1",
+      "imageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/wallpapers/dc/dc-007.jpg",
+      "resolution": "334x598",
+      "tags": [
+        "dc",
+        "comics",
+        "batman",
+        "superman",
+        "group",
+        "superheroes"
+      ],
+      "isFeatured": false,
+      "isNew": true,
+      "uploadedAt": "2026-09-25"
+    },
+    {
+      "id": "dc-008",
+      "collectionId": "dc",
+      "title": "Darkseid #1",
+      "imageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/wallpapers/dc/dc-008.jpg",
+      "resolution": "316x632",
+      "tags": [
+        "dc",
+        "comics",
+        "darkseid"
+      ],
+      "isFeatured": false,
+      "isNew": true,
+      "uploadedAt": "2026-09-25"
+    },
+    {
+      "id": "dc-009",
+      "collectionId": "dc",
+      "title": "Justice League #1",
+      "imageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/wallpapers/dc/dc-009.jpg",
+      "resolution": "386x770",
+      "tags": [
+        "dc",
+        "comics",
+        "justice-league",
+        "justice",
+        "league",
+        "group",
+        "superheroes"
+      ],
+      "isFeatured": false,
+      "isNew": true,
+      "uploadedAt": "2026-09-25"
+    },
+    {
+      "id": "dc-010",
+      "collectionId": "dc",
+      "title": "Justice League #2",
+      "imageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/wallpapers/dc/dc-010.jpg",
+      "resolution": "415x737",
+      "tags": [
+        "dc",
+        "comics",
+        "justice-league",
+        "justice",
+        "league",
+        "group",
+        "superheroes"
+      ],
+      "isFeatured": false,
+      "isNew": true,
+      "uploadedAt": "2026-09-25"
+    },
+    {
+      "id": "dc-011",
+      "collectionId": "dc",
+      "title": "Justice League #3",
+      "imageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/wallpapers/dc/dc-011.jpg",
+      "resolution": "415x737",
+      "tags": [
+        "dc",
+        "comics",
+        "justice-league",
+        "justice",
+        "league",
+        "group",
+        "superheroes"
+      ],
+      "isFeatured": false,
+      "isNew": true,
+      "uploadedAt": "2026-09-25"
+    },
+    {
+      "id": "dc-012",
+      "collectionId": "dc",
+      "title": "Justice League #4",
+      "imageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/wallpapers/dc/dc-012.jpg",
+      "resolution": "335x597",
+      "tags": [
+        "dc",
+        "comics",
+        "justice-league",
+        "justice",
+        "league",
+        "group",
+        "superheroes"
+      ],
+      "isFeatured": false,
+      "isNew": true,
+      "uploadedAt": "2026-09-25"
+    },
+    {
+      "id": "dc-013",
+      "collectionId": "dc",
+      "title": "Justice League #5",
+      "imageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/wallpapers/dc/dc-013.jpg",
+      "resolution": "335x597",
+      "tags": [
+        "dc",
+        "comics",
+        "justice-league",
+        "justice",
+        "league",
+        "group",
+        "superheroes"
+      ],
+      "isFeatured": false,
+      "isNew": true,
+      "uploadedAt": "2026-09-25"
+    },
+    {
+      "id": "dc-014",
+      "collectionId": "dc",
+      "title": "Justice League #6",
+      "imageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/wallpapers/dc/dc-014.jpg",
+      "resolution": "335x597",
+      "tags": [
+        "dc",
+        "comics",
+        "justice-league",
+        "justice",
+        "league",
+        "group",
+        "superheroes"
+      ],
+      "isFeatured": false,
+      "isNew": true,
+      "uploadedAt": "2026-09-25"
+    },
+    {
+      "id": "dc-015",
+      "collectionId": "dc",
+      "title": "Justice League #7",
+      "imageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/wallpapers/dc/dc-015.jpg",
+      "resolution": "316x632",
+      "tags": [
+        "dc",
+        "comics",
+        "justice-league",
+        "justice",
+        "league",
+        "group",
+        "superheroes"
+      ],
+      "isFeatured": false,
+      "isNew": true,
+      "uploadedAt": "2026-09-25"
+    },
+    {
+      "id": "dc-016",
+      "collectionId": "dc",
+      "title": "Justice League #8",
+      "imageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/wallpapers/dc/dc-016.jpg",
+      "resolution": "445x689",
+      "tags": [
+        "dc",
+        "comics",
+        "justice-league",
+        "justice",
+        "league",
+        "group",
+        "superheroes"
+      ],
+      "isFeatured": false,
+      "isNew": true,
+      "uploadedAt": "2026-09-25"
+    },
+    {
+      "id": "dc-017",
+      "collectionId": "dc",
+      "title": "Justice League #9",
+      "imageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/wallpapers/dc/dc-017.jpg",
+      "resolution": "406x756",
+      "tags": [
+        "dc",
+        "comics",
+        "justice-league",
+        "justice",
+        "league",
+        "group",
+        "superheroes"
+      ],
+      "isFeatured": false,
+      "isNew": true,
+      "uploadedAt": "2026-09-25"
+    },
+    {
+      "id": "dc-018",
+      "collectionId": "dc",
+      "title": "Justice League #10",
+      "imageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/wallpapers/dc/dc-018.jpg",
+      "resolution": "390x512",
+      "tags": [
+        "dc",
+        "comics",
+        "justice-league",
+        "justice",
+        "league",
+        "group",
+        "superheroes"
+      ],
+      "isFeatured": false,
+      "isNew": true,
+      "uploadedAt": "2026-09-25"
+    },
+    {
+      "id": "dc-019",
+      "collectionId": "dc",
+      "title": "Superman #1",
+      "imageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/wallpapers/dc/dc-019.jpg",
+      "resolution": "365x547",
+      "tags": [
+        "dc",
+        "comics",
+        "superman",
+        "superheroes"
+      ],
+      "isFeatured": false,
+      "isNew": true,
+      "uploadedAt": "2026-09-25"
     },
     {
       "id": "inv-001",
