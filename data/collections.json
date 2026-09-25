@@ -1,7 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-14",
-
+  "lastUpdated": "2026-09-26",
   "collections": [
     {
       "id": "demon-slayer",
@@ -9,9 +8,16 @@
       "slug": "demon-slayer",
       "description": "Kimetsu no Yaiba — breathtaking art from the world of Tanjiro, Nezuko, and the Demon Slayer Corps.",
       "coverImageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/collections/demon-slayer.jpg",
-      "wallpaperCount": 48,
+      "wallpaperCount": 54,
       "order": 1,
-      "tags": ["anime", "demon-slayer", "kimetsu", "tanjiro", "nezuko", "action"]
+      "tags": [
+        "anime",
+        "demon-slayer",
+        "kimetsu",
+        "tanjiro",
+        "nezuko",
+        "action"
+      ]
     },
     {
       "id": "attack-on-titan",
@@ -21,7 +27,14 @@
       "coverImageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/collections/attack-on-titan.jfif",
       "wallpaperCount": 30,
       "order": 2,
-      "tags": ["anime", "attack-on-titan", "aot", "eren", "levi", "titans"]
+      "tags": [
+        "anime",
+        "attack-on-titan",
+        "aot",
+        "eren",
+        "levi",
+        "titans"
+      ]
     },
     {
       "id": "jujutsu-kaisen",
@@ -29,9 +42,17 @@
       "slug": "jujutsu-kaisen",
       "description": "Cursed energy, sorcerers, and the endless battle between life and death.",
       "coverImageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/collections/jujutsu-kaisen.jfif",
-      "wallpaperCount": 9,
+      "wallpaperCount": 12,
       "order": 3,
-      "tags": ["anime", "jujutsu-kaisen", "jjk", "gojo", "yuji", "megumi", "cursed"]
+      "tags": [
+        "anime",
+        "jujutsu-kaisen",
+        "jjk",
+        "gojo",
+        "yuji",
+        "megumi",
+        "cursed"
+      ]
     },
     {
       "id": "dragon-ball",
@@ -39,9 +60,17 @@
       "slug": "dragon-ball",
       "description": "Power levels, Saiyans, and the eternal pursuit of strength.",
       "coverImageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/collections/dragon-ball.jfif",
-      "wallpaperCount": 165,
+      "wallpaperCount": 166,
       "order": 4,
-      "tags": ["anime", "dragon-ball", "goku", "vegeta", "super", "saiyan", "dbz"]
+      "tags": [
+        "anime",
+        "dragon-ball",
+        "goku",
+        "vegeta",
+        "super",
+        "saiyan",
+        "dbz"
+      ]
     },
     {
       "id": "dc",
@@ -51,7 +80,14 @@
       "coverImageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/collections/dc.jfif",
       "wallpaperCount": 19,
       "order": 5,
-      "tags": ["dc", "batman", "superman", "comics", "superheroes", "gotham"]
+      "tags": [
+        "dc",
+        "batman",
+        "superman",
+        "comics",
+        "superheroes",
+        "gotham"
+      ]
     }
   ]
 }
