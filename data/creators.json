@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-09-25",
+  "baseUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/creators/",
+  "creators": [
+    {
+      "id": "shae-aiz",
+      "name": "ѕнαє",
+      "handle": "@shae_aiz",
+      "instagramUrl": "https://www.instagram.com/shae_aiz/",
+      "profileImageUrl": "shae_aiz.jpg",
+      "order": 1,
+      "isActive": true
+    },
+    {
+      "id": "agastya-kalakriti",
+      "name": "Astra",
+      "handle": "@agastya_kalakriti",
+      "instagramUrl": "https://www.instagram.com/agastya_kalakriti/",
+      "profileImageUrl": "agastya_kalakriti.jpg",
+      "order": 2,
+      "isActive": true
+    },
+    {
+      "id": "legacy-in-focus",
+      "name": "Vanshika Zade",
+      "handle": "@legacyin.focus",
+      "instagramUrl": "https://www.instagram.com/legacyin.focus/",
+      "profileImageUrl": "Legacyin.focus.jpg",
+      "order": 3,
+      "isActive": true
+    },
+    {
+      "id": "criar-uma-boa-ideia",
+      "name": "Agencia Criar",
+      "handle": "@criarumaboaideia",
+      "instagramUrl": "https://www.instagram.com/criarumaboaideia/",
+      "profileImageUrl": "criarumaboaideia.jpg",
+      "order": 4,
+      "isActive": true
+    }
+  ]
+}
