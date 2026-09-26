@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-14",
+  "lastUpdated": "2026-09-27",
 
   "announcement": {
   "enabled": true,
@@ -17,33 +17,33 @@
 
   "featured": {
     "wallpaperIds": [
-      "ds-005", "ds-044", "ds-048",
-      "aot-001", "aot-030",
-      "jjk-001", "jjk-003",
-      "db-001", "db-002", "db-031", "db-051", "db-074", "db-082", "db-088", "db-113", "db-118", "db-144", "db-167",
-      "dc-001",
-      "inv-001"
+      "astra-017"
     ]
   },
 
   "popular": {
     "wallpaperIds": [
-      "db-001", "db-031", "db-002",
-      "jjk-001", "jjk-003",
-      "ds-005", "ds-044",
-      "aot-001", "aot-030",
-      "db-074", "db-082", "db-051"
+      "agencia-044",
+      "agencia-037",
+      "astra-010",
+      "agencia-008",
+      "legacyin-030",
+      "db-009"
     ]
   },
 
   "newArrivals": {
-    "collectionIds": [
-      "demon-slayer",
-      "attack-on-titan",
-      "jujutsu-kaisen",
-      "dragon-ball",
-      "dc",
-      "invincible"
+    "wallpaperIds": [
+      "astra-015",
+      "agencia-035",
+      "shae-010",
+      "shae-032",
+      "legacyin-001",
+      "legacyin-009",
+      "astra-007",
+      "astra-010",
+      "agencia-019",
+      "agencia-001"
     ]
   },
 
