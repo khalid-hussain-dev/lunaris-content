@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-26",
+  "lastUpdated": "2026-10-20",
   "baseUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/wallpapers",
   "wallpapers": [
     {
@@ -4488,13 +4488,14 @@
     },
     {
       "id": "inv-001",
-      "collectionId": "invincible",
-      "title": "Vanessa #1",
+      "collectionId": "more-anime",
+      "collectionName": "More Anime",
+      "title": "Anissa #1",
       "imageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/wallpapers/invincible/inv-001.jpg",
       "resolution": "720x1280",
       "tags": [
         "invincible",
-        "vanessa"
+        "anissa"
       ],
       "isFeatured": false,
       "isNew": true,
@@ -4748,8 +4749,8 @@
     },
     {
       "id": "astra-011",
-      "collectionId": "black-clover",
-      "collectionName": "Black Clover",
+      "collectionId": "more-anime",
+      "collectionName": "More Anime",
       "title": "Mereoleona Vermillion #1",
       "imageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/wallpapers/creators/astra/astra-011.jpg",
       "resolution": "1440x2560",
@@ -4773,8 +4774,8 @@
     },
     {
       "id": "astra-012",
-      "collectionId": "dr-stone",
-      "collectionName": "Dr. Stone",
+      "collectionId": "more-anime",
+      "collectionName": "More Anime",
       "title": "Senku Ishigami #1",
       "imageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/wallpapers/creators/astra/astra-012.jpg",
       "resolution": "1440x2560",
@@ -4798,8 +4799,8 @@
     },
     {
       "id": "astra-013",
-      "collectionId": "frieren",
-      "collectionName": "Frieren",
+      "collectionId": "more-anime",
+      "collectionName": "More Anime",
       "title": "Frieren #1",
       "imageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/wallpapers/creators/astra/astra-013.jpg",
       "resolution": "1440x2560",
@@ -4821,8 +4822,8 @@
     },
     {
       "id": "astra-014",
-      "collectionId": "naruto",
-      "collectionName": "Naruto",
+      "collectionId": "more-anime",
+      "collectionName": "More Anime",
       "title": "Kaguya Ōtsutsuki #1",
       "imageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/wallpapers/creators/astra/astra-014.jpg",
       "resolution": "1440x2560",
@@ -4846,8 +4847,8 @@
     },
     {
       "id": "astra-015",
-      "collectionId": "naruto",
-      "collectionName": "Naruto",
+      "collectionId": "more-anime",
+      "collectionName": "More Anime",
       "title": "Tsunade #1",
       "imageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/wallpapers/creators/astra/astra-015.jpg",
       "resolution": "1440x2560",
@@ -4870,8 +4871,8 @@
     },
     {
       "id": "astra-016",
-      "collectionId": "one-piece",
-      "collectionName": "One Piece",
+      "collectionId": "more-anime",
+      "collectionName": "More Anime",
       "title": "Donquixote Doflamingo #1",
       "imageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/wallpapers/creators/astra/astra-016.jpg",
       "resolution": "1440x2560",
@@ -4895,8 +4896,8 @@
     },
     {
       "id": "astra-017",
-      "collectionId": "spy-x-family",
-      "collectionName": "Spy x Family",
+      "collectionId": "more-anime",
+      "collectionName": "More Anime",
       "title": "Yor Forger #1",
       "imageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/wallpapers/creators/astra/astra-017.jpg",
       "resolution": "1440x2560",

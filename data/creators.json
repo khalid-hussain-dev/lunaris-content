@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-26",
+  "lastUpdated": "2026-10-20",
   "baseUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/creators/",
   "creators": [
     {
@@ -9,7 +9,7 @@
       "handle": "@shae_aiz",
       "instagramUrl": "https://www.instagram.com/shae_aiz/",
       "profileImageUrl": "shae_aiz.jpg",
-      "order": 1,
+      "order": 4,
       "isActive": true
     },
     {
@@ -18,7 +18,7 @@
       "handle": "@agastya_kalakriti",
       "instagramUrl": "https://www.instagram.com/agastya_kalakriti/",
       "profileImageUrl": "agastya_kalakriti.jpg",
-      "order": 2,
+      "order": 1,
       "isActive": true
     },
     {
@@ -36,7 +36,7 @@
       "handle": "@criarumaboaideia",
       "instagramUrl": "https://www.instagram.com/criarumaboaideia/",
       "profileImageUrl": "criarumaboaideia.jpg",
-      "order": 4,
+      "order": 2,
       "isActive": true
     }
   ]

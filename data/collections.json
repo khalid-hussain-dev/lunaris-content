@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-26",
+  "lastUpdated": "2026-10-20",
   "collections": [
     {
       "id": "demon-slayer",
@@ -87,6 +87,26 @@
         "comics",
         "superheroes",
         "gotham"
+      ]
+    },
+    {
+      "id": "more-anime",
+      "title": "More Anime",
+      "slug": "more-anime",
+      "description": "Standalone wallpapers from anime beyond the main collections.",
+      "coverImageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/wallpapers/creators/astra/astra-012.jpg",
+      "wallpaperCount": 8,
+      "order": 6,
+      "tags": [
+        "anime",
+        "more-anime",
+        "dr-stone",
+        "black-clover",
+        "frieren",
+        "naruto",
+        "one-piece",
+        "spy-x-family",
+        "invincible"
       ]
     }
   ]
