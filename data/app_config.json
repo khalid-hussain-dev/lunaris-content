@@ -1,10 +1,10 @@
 {
-  "version": 1,
+  "version": 2,
   "lastUpdated": "2026-10-21",
 
   "announcement": {
   "enabled": true,
-  "id": "new-arrivals-2026-11",
+  "id": "new-arrivals-2026-10",
   "type": "NEW_ARRIVALS",
   "imageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/announcements/new-arrivals-2026-10.jpg",
   "title": "New Arrivals",
