@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-27",
+  "lastUpdated": "2026-10-21",
 
   "announcement": {
   "enabled": true,
-  "id": "ann-test-004",
-  "type": "GENERAL",
-  "imageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/wallpapers/demon-slayer/ds-001.jpg",
-  "title": "Lunaris Announcement Test",
-  "message": "This is a test announcement delivered through the Lunaris remote configuration system.",
+  "id": "new-arrivals-2026-10",
+  "type": "NEW_ARRIVALS",
+  "imageUrl": "",
+  "title": "New Arrivals",
+  "message": "A fresh wave of wallpapers from worlds you love has just landed.",
   "minAppVersion": 1,
   "maxAppVersion": null,
-  "ctaLabel": "View Content Repository",
-  "ctaUrl": "https://github.com/khalid-hussain-dev/lunaris-content"
+  "ctaLabel": "Explore New Arrivals",
+  "ctaUrl": ""
 },
 
   "featured": {
