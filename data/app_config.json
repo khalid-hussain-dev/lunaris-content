@@ -49,7 +49,7 @@
   },
 
   "maintenanceMode": {
-    "enabled": false,
+    "enabled": true,
     "message": "Lunaris is undergoing maintenance. We'll be back shortly."
   },
 
