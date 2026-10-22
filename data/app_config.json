@@ -5,7 +5,7 @@
   "announcement": {
   "enabled": true,
   "id": "new-arrivals-2026-10",
-  "type": "NEW_ARRIVALS",
+  "type": "GENERAL",
   "imageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/announcements/new-arrivals-2026-10.jpg",
   "title": "New Arrivals",
   "message": "A fresh wave of wallpapers from worlds you love has just landed.",
