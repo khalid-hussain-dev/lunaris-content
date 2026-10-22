@@ -1,17 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-21",
+  "lastUpdated": "2026-10-22",
 
   "announcement": {
   "enabled": true,
   "id": "new-arrivals-2026-11",
   "type": "GENERAL",
-  "imageUrl": "https://www.google.com/imgres?q=Anime%20wallpaper&imgurl=https%3A%2F%2Fwww.wallpaperalchemy.com%2Fstorage%2Fwallpapers%2F4768%2Fhaimiya-mio-school-uniform-anime-wallpaper.jpg&imgrefurl=https%3A%2F%2Fwww.wallpaperalchemy.com%2Fwallpaper%2Fhaimiya-mio-school-uniform-anime-wallpaper-4768&docid=p3W8VemMYEKT7M&tbnid=TOMnQU50EKs0fM&vet=12ahUKEwjVsKbDgM2XAxUPgP0HHa42FYoQnPAOegUIswUQAA..i&w=2460&h=3848&hcb=2&ved=2ahUKEwjVsKbDgM2XAxUPgP0HHa42FYoQnPAOegUIswUQAA",
-  "title": "TEST 1",
-  "message": "TESTING.",
+  "kicker": "LUNARIS / YOUR WALLPAPER COLLECTION",
+  "imageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/announcements/welcome-to-lunaris-2026-10.jpg",
+  "title": "Welcome to Lunaris",
+  "message": "Explore a growing collection of wallpapers from the worlds you love. This is just the beginning.",
   "minAppVersion": 1,
   "maxAppVersion": null,
-  "ctaLabel": "TEST",
+  "ctaLabel": "",
   "ctaUrl": ""
 },
 
