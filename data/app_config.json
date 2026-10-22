@@ -4,14 +4,14 @@
 
   "announcement": {
   "enabled": true,
-  "id": "new-arrivals-2026-10",
+  "id": "new-arrivals-2026-12",
   "type": "GENERAL",
-  "imageUrl": "https://khalid-hussain-dev.github.io/lunaris-content/images/announcements/new-arrivals-2026-10.jpg",
-  "title": "New Arrivals",
-  "message": "A fresh wave of wallpapers from worlds you love has just landed.",
+  "imageUrl": "https://www.google.com/imgres?q=Anime%20wallpaper&imgurl=https%3A%2F%2Fwww.wallpaperalchemy.com%2Fstorage%2Fwallpapers%2F4768%2Fhaimiya-mio-school-uniform-anime-wallpaper.jpg&imgrefurl=https%3A%2F%2Fwww.wallpaperalchemy.com%2Fwallpaper%2Fhaimiya-mio-school-uniform-anime-wallpaper-4768&docid=p3W8VemMYEKT7M&tbnid=TOMnQU50EKs0fM&vet=12ahUKEwjVsKbDgM2XAxUPgP0HHa42FYoQnPAOegUIswUQAA..i&w=2460&h=3848&hcb=2&ved=2ahUKEwjVsKbDgM2XAxUPgP0HHa42FYoQnPAOegUIswUQAA",
+  "title": "TEST 1",
+  "message": "TESTING.",
   "minAppVersion": 1,
   "maxAppVersion": null,
-  "ctaLabel": "Explore New Arrivals",
+  "ctaLabel": "TEST",
   "ctaUrl": ""
 },
 
